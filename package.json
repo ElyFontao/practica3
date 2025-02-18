@@ -1,0 +1,12 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}

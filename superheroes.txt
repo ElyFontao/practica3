@@ -1,0 +1,538 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Wonder Woman",
+    "nombreReal": "Diana Prince",
+    "nombreSociedad": "Guerrera Amazona",
+    "edad": 5000,
+    "planetaOrigen": "Themyscira",
+    "debilidad": "Ataduras mágicas",
+    "poder": [
+      "Fuerza sobrehumana",
+      "Inmortalidad",
+      "Resistencia",
+      "Vuelo"
+    ],
+    "habilidadEspecial": "Manejo del lazo de la verdad",
+    "aliado": [
+      "Superman",
+      "Batman"
+    ],
+    "enemigo": [
+      "Ares",
+      "Cheetah"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Captain Marvel",
+    "nombreReal": "Carol Danvers",
+    "nombreSociedad": "Vengadora",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Absorción excesiva de energía",
+    "poder": [
+      "Vuelo",
+      "Superfuerza",
+      "Proyección de energía",
+      "Resistencia extrema"
+    ],
+    "habilidadEspecial": "Piloto experta",
+    "aliado": [
+      "Nick Fury",
+      "Avengers"
+    ],
+    "enemigo": [
+      "Yon-Rogg",
+      "Suprema Inteligencia"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Storm",
+    "nombreReal": "Ororo Munroe",
+    "nombreSociedad": "Mutante",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Alteraciones emocionales",
+    "poder": [
+      "Control climático",
+      "Vuelo",
+      "Resistencia extrema"
+    ],
+    "habilidadEspecial": "Liderazgo estratégico",
+    "aliado": [
+      "X-Men",
+      "Black Panther"
+    ],
+    "enemigo": [
+      "Magneto",
+      "Sentinels"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Vigilante",
+    "edad": 33,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ninguna conocida",
+    "poder": [
+      "Maestría en combate",
+      "Espionaje"
+    ],
+    "habilidadEspecial": "Entrenamiento de élite",
+    "aliado": [
+      "Hawkeye",
+      "Ironman"
+    ],
+    "enemigo": [
+      "Taskmaster",
+      "Red Room"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "She-Hulk",
+    "nombreReal": "Jennifer Walters",
+    "nombreSociedad": "Vigilante",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Fatiga extrema",
+    "poder": [
+      "Fuerza sobrehumana",
+      "Resistencia",
+      "Regeneración"
+    ],
+    "habilidadEspecial": "Experta en derecho",
+    "aliado": [
+      "Hulk",
+      "Daredevil"
+    ],
+    "enemigo": [
+      "Titania",
+      "Abominación"
+    ]
+  },
+  {
+    "id": 1,
+    "nombreSuperheroe": "Multitasker",
+    "nombreReal": "Laura Fernández",
+    "nombreSociedad": "La Equilibrista",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de café",
+    "poder": [
+      "Hacer diez cosas a la vez",
+      "Memoria prodigiosa",
+      "Resistencia extrema al cansancio"
+    ],
+    "habilidadEspecial": "Organización absoluta",
+    "aliado": [
+      "Super Planner"
+    ],
+    "enemigo": [
+      "Procrastinador Supremo"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Madre Rayo",
+    "nombreReal": "Sofía González",
+    "nombreSociedad": "Velocista del Hogar",
+    "edad": 42,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desorden inesperado",
+    "poder": [
+      "Supervelocidad para hacer todo en minutos",
+      "Sentido arácnido para detectar peligros domésticos",
+      "Energía inagotable"
+    ],
+    "habilidadEspecial": "Resolver problemas antes de que ocurran",
+    "aliado": [
+      "Papá Relámpago"
+    ],
+    "enemigo": [
+      "El Caos"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Doctora Milagro",
+    "nombreReal": "Camila Rojas",
+    "nombreSociedad": "Sanadora Incansable",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Turnos sobrecargados",
+    "poder": [
+      "Diagnóstico instantáneo",
+      "Cura con una mirada",
+      "Resistencia al estrés"
+    ],
+    "habilidadEspecial": "Manos que alivian",
+    "aliado": [
+      "Enfermera Estelar"
+    ],
+    "enemigo": [
+      "Virus Oscuro"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Señorita Ingenio",
+    "nombreReal": "Valentina Pérez",
+    "nombreSociedad": "La Creativa",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de inspiración",
+    "poder": [
+      "Resolver cualquier problema con objetos comunes",
+      "Inventar soluciones en segundos",
+      "Creatividad infinita"
+    ],
+    "habilidadEspecial": "Improvisación absoluta",
+    "aliado": [
+      "Genio del Diseño"
+    ],
+    "enemigo": [
+      "Burocracia Letal"
+    ]
+  },
+  {
+    "id": 1,
+    "nombreSuperheroe": "Multitasker",
+    "nombreReal": "Laura Fernández",
+    "nombreSociedad": "La Equilibrista",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de café",
+    "poder": [
+      "Hacer diez cosas a la vez",
+      "Memoria prodigiosa",
+      "Resistencia extrema al cansancio"
+    ],
+    "habilidadEspecial": "Organización absoluta",
+    "aliado": [
+      "Super Planner"
+    ],
+    "enemigo": [
+      "Procrastinador Supremo"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Madre Rayo",
+    "nombreReal": "Sofía González",
+    "nombreSociedad": "Velocista del Hogar",
+    "edad": 42,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desorden inesperado",
+    "poder": [
+      "Supervelocidad para hacer todo en minutos",
+      "Sentido arácnido para detectar peligros domésticos",
+      "Energía inagotable"
+    ],
+    "habilidadEspecial": "Resolver problemas antes de que ocurran",
+    "aliado": [
+      "Papá Relámpago"
+    ],
+    "enemigo": [
+      "El Caos"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Doctora Milagro",
+    "nombreReal": "Camila Rojas",
+    "nombreSociedad": "Sanadora Incansable",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Turnos sobrecargados",
+    "poder": [
+      "Diagnóstico instantáneo",
+      "Cura con una mirada",
+      "Resistencia al estrés"
+    ],
+    "habilidadEspecial": "Manos que alivian",
+    "aliado": [
+      "Enfermera Estelar"
+    ],
+    "enemigo": [
+      "Virus Oscuro"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Señorita Ingenio",
+    "nombreReal": "Valentina Pérez",
+    "nombreSociedad": "La Creativa",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de inspiración",
+    "poder": [
+      "Resolver cualquier problema con objetos comunes",
+      "Inventar soluciones en segundos",
+      "Creatividad infinita"
+    ],
+    "habilidadEspecial": "Improvisación absoluta",
+    "aliado": [
+      "Genio del Diseño"
+    ],
+    "enemigo": [
+      "Burocracia Letal"
+    ]
+  },
+  {
+    "id": 1,
+    "nombreSuperheroe": "Multitasker",
+    "nombreReal": "Laura Fernández",
+    "nombreSociedad": "La Equilibrista",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de café",
+    "poder": [
+      "Hacer diez cosas a la vez",
+      "Memoria prodigiosa",
+      "Resistencia extrema al cansancio"
+    ],
+    "habilidadEspecial": "Organización absoluta",
+    "aliado": [
+      "Super Planner"
+    ],
+    "enemigo": [
+      "Procrastinador Supremo"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Madre Rayo",
+    "nombreReal": "Sofía González",
+    "nombreSociedad": "Velocista del Hogar",
+    "edad": 42,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desorden inesperado",
+    "poder": [
+      "Supervelocidad para hacer todo en minutos",
+      "Sentido arácnido para detectar peligros domésticos",
+      "Energía inagotable"
+    ],
+    "habilidadEspecial": "Resolver problemas antes de que ocurran",
+    "aliado": [
+      "Papá Relámpago"
+    ],
+    "enemigo": [
+      "El Caos"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Doctora Milagro",
+    "nombreReal": "Camila Rojas",
+    "nombreSociedad": "Sanadora Incansable",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Turnos sobrecargados",
+    "poder": [
+      "Diagnóstico instantáneo",
+      "Cura con una mirada",
+      "Resistencia al estrés"
+    ],
+    "habilidadEspecial": "Manos que alivian",
+    "aliado": [
+      "Enfermera Estelar"
+    ],
+    "enemigo": [
+      "Virus Oscuro"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Señorita Ingenio",
+    "nombreReal": "Valentina Pérez",
+    "nombreSociedad": "La Creativa",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de inspiración",
+    "poder": [
+      "Resolver cualquier problema con objetos comunes",
+      "Inventar soluciones en segundos",
+      "Creatividad infinita"
+    ],
+    "habilidadEspecial": "Improvisación absoluta",
+    "aliado": [
+      "Genio del Diseño"
+    ],
+    "enemigo": [
+      "Burocracia Letal"
+    ]
+  },
+  {
+    "id": 1,
+    "nombreSuperheroe": "Multitasker",
+    "nombreReal": "Laura Fernández",
+    "nombreSociedad": "La Equilibrista",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de café",
+    "poder": [
+      "Hacer diez cosas a la vez",
+      "Memoria prodigiosa",
+      "Resistencia extrema al cansancio"
+    ],
+    "habilidadEspecial": "Organización absoluta",
+    "aliado": [
+      "Super Planner"
+    ],
+    "enemigo": [
+      "Procrastinador Supremo"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Madre Rayo",
+    "nombreReal": "Sofía González",
+    "nombreSociedad": "Velocista del Hogar",
+    "edad": 42,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desorden inesperado",
+    "poder": [
+      "Supervelocidad para hacer todo en minutos",
+      "Sentido arácnido para detectar peligros domésticos",
+      "Energía inagotable"
+    ],
+    "habilidadEspecial": "Resolver problemas antes de que ocurran",
+    "aliado": [
+      "Papá Relámpago"
+    ],
+    "enemigo": [
+      "El Caos"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Doctora Milagro",
+    "nombreReal": "Camila Rojas",
+    "nombreSociedad": "Sanadora Incansable",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Turnos sobrecargados",
+    "poder": [
+      "Diagnóstico instantáneo",
+      "Cura con una mirada",
+      "Resistencia al estrés"
+    ],
+    "habilidadEspecial": "Manos que alivian",
+    "aliado": [
+      "Enfermera Estelar"
+    ],
+    "enemigo": [
+      "Virus Oscuro"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Señorita Ingenio",
+    "nombreReal": "Valentina Pérez",
+    "nombreSociedad": "La Creativa",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de inspiración",
+    "poder": [
+      "Resolver cualquier problema con objetos comunes",
+      "Inventar soluciones en segundos",
+      "Creatividad infinita"
+    ],
+    "habilidadEspecial": "Improvisación absoluta",
+    "aliado": [
+      "Genio del Diseño"
+    ],
+    "enemigo": [
+      "Burocracia Letal"
+    ]
+  },
+  {
+    "id": 1,
+    "nombreSuperheroe": "Multitasker",
+    "nombreReal": "Laura Fernández",
+    "nombreSociedad": "La Equilibrista",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de café",
+    "poder": [
+      "Hacer diez cosas a la vez",
+      "Memoria prodigiosa",
+      "Resistencia extrema al cansancio"
+    ],
+    "habilidadEspecial": "Organización absoluta",
+    "aliado": [
+      "Super Planner"
+    ],
+    "enemigo": [
+      "Procrastinador Supremo"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Madre Rayo",
+    "nombreReal": "Sofía González",
+    "nombreSociedad": "Velocista del Hogar",
+    "edad": 42,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desorden inesperado",
+    "poder": [
+      "Supervelocidad para hacer todo en minutos",
+      "Sentido arácnido para detectar peligros domésticos",
+      "Energía inagotable"
+    ],
+    "habilidadEspecial": "Resolver problemas antes de que ocurran",
+    "aliado": [
+      "Papá Relámpago"
+    ],
+    "enemigo": [
+      "El Caos"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Doctora Milagro",
+    "nombreReal": "Camila Rojas",
+    "nombreSociedad": "Sanadora Incansable",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Turnos sobrecargados",
+    "poder": [
+      "Diagnóstico instantáneo",
+      "Cura con una mirada",
+      "Resistencia al estrés"
+    ],
+    "habilidadEspecial": "Manos que alivian",
+    "aliado": [
+      "Enfermera Estelar"
+    ],
+    "enemigo": [
+      "Virus Oscuro"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Señorita Ingenio",
+    "nombreReal": "Valentina Pérez",
+    "nombreSociedad": "La Creativa",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de inspiración",
+    "poder": [
+      "Resolver cualquier problema con objetos comunes",
+      "Inventar soluciones en segundos",
+      "Creatividad infinita"
+    ],
+    "habilidadEspecial": "Improvisación absoluta",
+    "aliado": [
+      "Genio del Diseño"
+    ],
+    "enemigo": [
+      "Burocracia Letal"
+    ]
+  }
+]

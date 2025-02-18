@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "nombreSuperheroe": "Multitasker",
+        "nombreReal": "Laura Fernández",
+        "nombreSociedad": "La Equilibrista",
+        "edad": 38,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Falta de café",
+        "poder": [
+            "Hacer diez cosas a la vez",
+            "Memoria prodigiosa",
+            "Resistencia extrema al cansancio"
+        ],
+        "habilidadEspecial": "Organización absoluta",
+        "aliado": ["Super Planner"],
+        "enemigo": ["Procrastinador Supremo"]
+    },
+    {
+        "id": 2,
+        "nombreSuperheroe": "Madre Rayo",
+        "nombreReal": "Sofía González",
+        "nombreSociedad": "Velocista del Hogar",
+        "edad": 42,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Desorden inesperado",
+        "poder": [
+            "Supervelocidad para hacer todo en minutos",
+            "Sentido arácnido para detectar peligros domésticos",
+            "Energía inagotable"
+        ],
+        "habilidadEspecial": "Resolver problemas antes de que ocurran",
+        "aliado": ["Papá Relámpago"],
+        "enemigo": ["El Caos"]
+    },
+    {
+        "id": 3,
+        "nombreSuperheroe": "Doctora Milagro",
+        "nombreReal": "Camila Rojas",
+        "nombreSociedad": "Sanadora Incansable",
+        "edad": 45,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Turnos sobrecargados",
+        "poder": [
+            "Diagnóstico instantáneo",
+            "Cura con una mirada",
+            "Resistencia al estrés"
+        ],
+        "habilidadEspecial": "Manos que alivian",
+        "aliado": ["Enfermera Estelar"],
+        "enemigo": ["Virus Oscuro"]
+    },
+    {
+        "id": 4,
+        "nombreSuperheroe": "Señorita Ingenio",
+        "nombreReal": "Valentina Pérez",
+        "nombreSociedad": "La Creativa",
+        "edad": 30,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Falta de inspiración",
+        "poder": [
+            "Resolver cualquier problema con objetos comunes",
+            "Inventar soluciones en segundos",
+            "Creatividad infinita"
+        ],
+        "habilidadEspecial": "Improvisación absoluta",
+        "aliado": ["Genio del Diseño"],
+        "enemigo": ["Burocracia Letal"]
+    }
+]
